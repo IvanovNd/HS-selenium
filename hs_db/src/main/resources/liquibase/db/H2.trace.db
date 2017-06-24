@@ -1,0 +1,4 @@
+2016-08-16 22:03:12 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Таблица "DATABASECHANGELOGLOCK" не найдена
+Table "DATABASECHANGELOGLOCK" not found; SQL statement:
+select count(*) from DATABASECHANGELOGLOCK [42102-192]

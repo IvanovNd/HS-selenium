@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/HS_bot.iml" filepath="$PROJECT_DIR$/HS_bot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hs_db/untitled.iml" filepath="$PROJECT_DIR$/hs_db/untitled.iml" />
+    </modules>
+  </component>
+</project>
